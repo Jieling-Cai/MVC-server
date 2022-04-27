@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-22T16:45:39" hostname="huaxiaoyandeMacBook-Pro.local" time="0.017">
+  <properties/>
+  <testcase name="testtostrings" classname="jrails.ModelTest" time="0.017"/>
+  <system-out><![CDATA[0
+7
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
