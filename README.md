@@ -1,4 +1,4 @@
-Model-View-Controller Web Server in JAVA
+Model-View-Controller Web Server
 ================
 This project contains two subprojects: jrails, which contains the MVC framework code, and books, which contains the code for the books server.
 
